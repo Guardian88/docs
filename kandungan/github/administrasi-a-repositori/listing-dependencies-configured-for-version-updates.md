@@ -1,9 +1,10 @@
----
+Eth 2.0 Hello-world# @open-source
+
 title: Listing dependencies configured for version updates
 intro: 'You can view the dependencies that {% data variables.product.prodname_dependabot %} monitors for updates.'
 versions:
   free-pro-team: '*'
----
+Eth 2.0 
 
 {% data reusables.dependabot.beta-note %}
 
