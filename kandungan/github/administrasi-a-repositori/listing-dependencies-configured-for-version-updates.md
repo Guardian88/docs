@@ -1,4 +1,4 @@
----
+Hello-world# @dependabot
 title: Listing dependencies configured for version updates
 intro: 'You can view the dependencies that {% data variables.product.prodname_dependabot %} monitors for updates.'
 versions:
